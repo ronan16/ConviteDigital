@@ -1,0 +1,10 @@
+
+.div_topo{
+	background-position: 50% 50%; 
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	background-image: url("../img/noivos.jpg"); 
+	visibility: visible; 
+	transform: translate3d(0px, 0.0600037px, 0px);
+}
+
